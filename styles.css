@@ -71,6 +71,7 @@ img {
 	font-family: 'Lexend Deca', sans-serif;
 	color: hsla(0, 0%, 100%, 0.6);
 	margin-block-start:  0px;
+	text-transform: uppercase;
 }
 .text-items {
 	margin-top: 42px;
@@ -119,6 +120,12 @@ image 541 x 446
 		text-align: left;
 		justify-content: space-between;;
 		align-content: flex-start;
+	}
+	.text-item {
+		align-items: flex-start;
+	}
+	.big-title {
+		font-size: 35px;
 	}
 	.text-items > .text-item {
 		display: flex;
