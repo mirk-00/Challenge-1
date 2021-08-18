@@ -115,7 +115,7 @@ image 541 x 446
 	.text-items{
 		margin: 0;
 		display: flex;
-		/*padding: 9.375vh 8.0vw 7.875vh 4.792vw !important; /*is this the right way to set the padding?*/*/
+		padding: 9.375vh 8.0vw 7.875vh 4.792vw !important; /*is this the right way to set the padding?*/
 		text-align: left;
 		justify-content: space-between;;
 		align-content: flex-start;
