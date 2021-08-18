@@ -110,7 +110,7 @@ image 541 x 446
 		margin: 22.125vh 11.39vW;
 	}
 	.bg-image{
-		width: 120%;  /*I don't understand how to properly set the width in order to cover 48% of the card*/
+		width: 48%;  /*I don't understand how to properly set the width in order to cover 48% of the card*/
 		height: 100%;
 	}
 	.text-items{
@@ -118,6 +118,7 @@ image 541 x 446
 		display: flex;
 		padding: 9.375vh 8.0vw 7.875vh 4.792vw !important; /*is this the right way to set the padding?*/
 		text-align: left;
+		width: 52%;
 		justify-content: space-between;;
 		align-content: flex-start;
 	}
